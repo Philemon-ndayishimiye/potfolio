@@ -1,0 +1,112 @@
+.head2{
+   margin: 0;
+   padding: 0; 
+ background-color: rgba(21, 12, 90, 0.96);
+   height: 500px;
+   margin-top: 60px;
+   border: 3px solid greenyellow;
+   border-radius: 12px;
+   font-family: monospace;
+   
+}
+
+.nav{
+   
+    
+    display: flex;
+    align-items: center;
+}
+a{
+    
+    
+    text-decoration: none;
+    padding: 10px;
+    font-size: 17px;
+    font-weight: bold;
+    color:white ;
+    text-transform: capitalize;
+    font-family: monospace;
+    
+    
+}
+.page{
+    padding-top: 20px;
+    padding-left: 600px; 
+
+
+}
+.philo{
+    padding-top: 20px ;
+    padding-right: 2opx;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    padding-left: 50px;
+    
+
+}
+a:hover{
+    color: blue;
+}
+img{
+ float: right;
+ width: 260px;
+height: 380px;
+ margin-right:  200px;
+ padding-top: 20px;
+ border-radius: 50%;
+ border: 2px white solid;
+    
+    
+}
+h1{
+    padding-left: 50px;
+    padding-top: 80px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+p{
+    padding-left: 50px;
+    color: white;
+    padding-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.front{
+    font-size: 21px;
+    color: blue;
+}
+button{
+    width: 110px;
+    height: 30px;
+    margin-left: 90px;
+    margin-top: 20px;
+    border: 2px solid blue ;
+    border-radius: 10px;
+    cursor: pointer;
+}
+#btn1{
+  
+   background-color: blue;
+   
+
+}
+#btn2{
+    background-color: rgba(21, 12, 90, 0.96);
+    color: blue;
+   
+}
+.icons{
+    padding-top: 50px;
+    padding-left: 50px;
+}
+i{
+    padding-left: 30px;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+
+
+
